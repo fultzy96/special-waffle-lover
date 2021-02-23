@@ -1,0 +1,46 @@
+#banner {
+    background-color: rgb(177, 162, 162);
+    margin-top: 50px;
+    margin-bottom: 100 px;
+    text-align: center;
+    padding: auto;
+    box-shadow: darkblue;
+    border-color: darkblue;
+    border-width: 10px;
+    border-style: groove;
+    box-decoration-break: slice;
+    box-shadow:rgba(red, green, blue, alpha) 0, 0, 0, .5;
+}
+
+#bottom{
+    text-align: center;
+    box-shadow: darkblue;
+    border-color: darkblue;
+    border-width: 10px;
+    border-style: groove;
+}
+
+#body{
+    background-color: rgb(235, 229, 221);
+    background-position: center;
+    border-radius: 0px;
+    border-width: 10px;
+    border-style: inset;
+}
+
+h1{
+color: burlywood;
+}
+
+h2{
+    color: burlywood;
+}
+
+h3{
+    color: burlywood;
+}
+
+h4{
+    color: burlywood;
+}
+
